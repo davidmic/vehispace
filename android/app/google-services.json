@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "444139538520",
+    "firebase_url": "https://vehispace-e7cc6.firebaseio.com",
+    "project_id": "vehispace-e7cc6",
+    "storage_bucket": "vehispace-e7cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444139538520:android:544eaefdec4515dfc0222d",
+        "android_client_info": {
+          "package_name": "com.davidominigmail.vehispace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444139538520-f1iudcdsq786gahg2m71drps3qaqngc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davidominigmail.vehispace",
+            "certificate_hash": "17c477e449e6d207a1ca5247cc909629ca8f5f2b"
+          }
+        },
+        {
+          "client_id": "444139538520-h83or2ebnib5e3lbftdjvjup68jja9qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-P-niT-26KjQh-pA0LhVuAWGlhZR5xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444139538520-h83or2ebnib5e3lbftdjvjup68jja9qa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444139538520-vchcqkus6rap3msblc45fjc27mvjen6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.davidominigmail.vehispace"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444139538520:android:65dfec3f3ce22962c0222d",
+        "android_client_info": {
+          "package_name": "com.vehispace.vehispace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444139538520-o5ugkda1b1g2orqliaiqmou5pviop198.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vehispace.vehispace",
+            "certificate_hash": "2a2b1bcc63d02beb7c16aaa68fb87716dfb85fae"
+          }
+        },
+        {
+          "client_id": "444139538520-h83or2ebnib5e3lbftdjvjup68jja9qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-P-niT-26KjQh-pA0LhVuAWGlhZR5xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444139538520-h83or2ebnib5e3lbftdjvjup68jja9qa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444139538520-vchcqkus6rap3msblc45fjc27mvjen6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.davidominigmail.vehispace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
